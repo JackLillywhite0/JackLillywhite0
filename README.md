@@ -11,7 +11,7 @@ p align='center'>
 <a href="https://t.me/JackLillywhite0"> 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
 </a> 
-📫 How to reach me: <a href='mailto:jackson.lillywhite@outlook.com'>your.email@example.com</a> 
+📫 How to reach me: <a href='mailto:jackson.lillywhite@outlook.com'>jackson.lillywhite@outlook.com</a> 
 </p> 
 <p align='center'> 
 <a href="https://github-readme-stats.vercel.app/api?username=JackLillywhite0&show_icons=true&count_private=true"> 
