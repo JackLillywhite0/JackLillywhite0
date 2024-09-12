@@ -3,8 +3,7 @@
   - 🌱 Im currently learning Java in an AP Computer Science class as well as from a course on CodeHS
   - 👔 Work as a fit specialist at Complete Runner, Grand Blanc
   - 🔭 I have worked in C#, Python, HTML, and Java
-  - ⚡ Fun Fact: I run Cross Country and Track
-p align='center'> 
+  - ⚡ Fun Fact: I run Cross Country and Track 
 <a href="https://www.linkedin.com/in/JackLillywhite0/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a> 
